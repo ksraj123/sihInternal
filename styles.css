@@ -8,3 +8,9 @@ body{
     background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
 }
+
+.message{    
+    text-align: center; 
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
